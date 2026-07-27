@@ -1,0 +1,6341 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.109,
+        "standardDeviation": 74.4379,
+        "kurtosis": -1.45334,
+        "skewness": 0.0112956,
+        "entropy": 0.579193
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.759,
+        "standardDeviation": 32.9666,
+        "kurtosis": 5.68089,
+        "skewness": -0.910812,
+        "entropy": 0.369857
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 188.987,
+        "standardDeviation": 72.0547,
+        "kurtosis": -0.757573,
+        "skewness": -0.920812,
+        "entropy": 0.502981
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.3954,
+        "standardDeviation": 70.4678,
+        "kurtosis": -0.91148,
+        "skewness": 0.92439,
+        "entropy": 0.502912
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 0,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "965448e9449f4b9da42b9c7e8ab5a0768a94331c1e19184c60552d07617ff0ec"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "2.58664MB",
+    "userTime": "0.010u",
+    "elapsedTime": "0:01.002",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 1,
+      "height": 1,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 1,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -2.19649,
+        "skewness": 0.188597,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 1,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "3b7c00a7ccadaca69c34d2c3fa4493e470bd1ebca6740daf193041b4ec52f74c"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "1",
+    "pixelsPerSecond": "132B",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.007",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 1,
+      "height": 1,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 1,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -2.19649,
+        "skewness": 0.188597,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 2,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "3b7c00a7ccadaca69c34d2c3fa4493e470bd1ebca6740daf193041b4ec52f74c"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "1",
+    "pixelsPerSecond": "82B",
+    "userTime": "0.010u",
+    "elapsedTime": "0:01.012",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 58,
+      "height": 40,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2320,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -1.57184,
+        "skewness": 0.290317,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": 8.0896e+52,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": 2.24461e+54,
+        "skewness": -1.075e+37,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 9,
+      "y": 13
+    },
+    "originGeometry": "+9+13",
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 3,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "982b5ddea3ef61fc89030f0122a2ef58e0d52b29d17e1d7f7b8f919609ecd52e"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "2320",
+    "pixelsPerSecond": "139759B",
+    "userTime": "0.010u",
+    "elapsedTime": "0:01.016",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 119.883,
+        "standardDeviation": 69.8482,
+        "kurtosis": -1.50011,
+        "skewness": 0.0474533,
+        "entropy": 0.519824
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 181.03,
+        "standardDeviation": 115.729,
+        "kurtosis": -1.14473,
+        "skewness": 0.924922,
+        "entropy": 0.868822
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 143.407,
+        "standardDeviation": 30.0586,
+        "kurtosis": 7.80695,
+        "skewness": -0.883631,
+        "entropy": 0.322995
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 199.39,
+        "standardDeviation": 66.8258,
+        "kurtosis": 0.0648669,
+        "skewness": -1.274,
+        "entropy": 0.443844
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 62.7645,
+        "standardDeviation": 66.7793,
+        "kurtosis": -0.135666,
+        "skewness": 1.26356,
+        "entropy": 0.443636
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 4,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "2f878d4dfd30980012e3c98f3030d313fc30bec9cec6e21c1cdd7019a9700a29"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "256083B",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.021",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.124,
+        "standardDeviation": 74.3132,
+        "kurtosis": -1.45504,
+        "skewness": 0.00911572,
+        "entropy": 0.577975
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.084,
+        "standardDeviation": 122.15,
+        "kurtosis": -1.64164,
+        "skewness": 0.598884,
+        "entropy": 0.939769
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.034,
+        "standardDeviation": 32.8288,
+        "kurtosis": 5.81934,
+        "skewness": -0.939811,
+        "entropy": 0.367931
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.337,
+        "standardDeviation": 71.8044,
+        "kurtosis": -0.725686,
+        "skewness": -0.932485,
+        "entropy": 0.502027
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.2097,
+        "standardDeviation": 70.4694,
+        "kurtosis": -0.899635,
+        "skewness": 0.932639,
+        "entropy": 0.502172
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 5,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "4e83b9bc12f37ffe2b4170c50daf29c0c5638fc75f75a9340d2795e217db411d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "203967B",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.026",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.951,
+        "standardDeviation": 73.813,
+        "kurtosis": -1.45355,
+        "skewness": 0.0073136,
+        "entropy": 0.571364
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.075,
+        "standardDeviation": 121.849,
+        "kurtosis": -1.62006,
+        "skewness": 0.616634,
+        "entropy": 0.93641
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.185,
+        "standardDeviation": 31.9812,
+        "kurtosis": 6.20107,
+        "skewness": -1.06568,
+        "entropy": 0.358923
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.838,
+        "standardDeviation": 71.2584,
+        "kurtosis": -0.705182,
+        "skewness": -0.940151,
+        "entropy": 0.495145
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.8578,
+        "standardDeviation": 70.1636,
+        "kurtosis": -0.937334,
+        "skewness": 0.927395,
+        "entropy": 0.494979
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 6,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "b20102cf56c662090946099ccd1a90f67ed754ffe06ff6f174be033a1ee1bc34"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "167149B",
+    "userTime": "0.030u",
+    "elapsedTime": "0:01.032",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.124,
+        "standardDeviation": 74.3132,
+        "kurtosis": -1.45504,
+        "skewness": 0.00911572,
+        "entropy": 0.577975
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.084,
+        "standardDeviation": 122.15,
+        "kurtosis": -1.64164,
+        "skewness": 0.598884,
+        "entropy": 0.939769
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.034,
+        "standardDeviation": 32.8288,
+        "kurtosis": 5.81934,
+        "skewness": -0.939811,
+        "entropy": 0.367931
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.337,
+        "standardDeviation": 71.8044,
+        "kurtosis": -0.725686,
+        "skewness": -0.932485,
+        "entropy": 0.502027
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.2097,
+        "standardDeviation": 70.4694,
+        "kurtosis": -0.899635,
+        "skewness": 0.932639,
+        "entropy": 0.502172
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 7,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "4e83b9bc12f37ffe2b4170c50daf29c0c5638fc75f75a9340d2795e217db411d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "143180B",
+    "userTime": "0.030u",
+    "elapsedTime": "0:01.037",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.109,
+        "standardDeviation": 74.4379,
+        "kurtosis": -1.45334,
+        "skewness": 0.0112956,
+        "entropy": 0.579193
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.759,
+        "standardDeviation": 32.9666,
+        "kurtosis": 5.68089,
+        "skewness": -0.910812,
+        "entropy": 0.369857
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 188.987,
+        "standardDeviation": 72.0547,
+        "kurtosis": -0.757573,
+        "skewness": -0.920812,
+        "entropy": 0.502981
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.3954,
+        "standardDeviation": 70.4678,
+        "kurtosis": -0.91148,
+        "skewness": 0.92439,
+        "entropy": 0.502912
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 8,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "965448e9449f4b9da42b9c7e8ab5a0768a94331c1e19184c60552d07617ff0ec"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "125601B",
+    "userTime": "0.040u",
+    "elapsedTime": "0:01.043",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 58,
+      "height": 40,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2320,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -1.57184,
+        "skewness": 0.290317,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": 8.0896e+52,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": 2.24461e+54,
+        "skewness": -1.075e+37,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 9,
+      "y": 13
+    },
+    "originGeometry": "+9+13",
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 9,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "982b5ddea3ef61fc89030f0122a2ef58e0d52b29d17e1d7f7b8f919609ecd52e"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "2320",
+    "pixelsPerSecond": "47888B",
+    "userTime": "0.040u",
+    "elapsedTime": "0:01.048",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 119.883,
+        "standardDeviation": 69.8482,
+        "kurtosis": -1.50011,
+        "skewness": 0.0474533,
+        "entropy": 0.519824
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 181.03,
+        "standardDeviation": 115.729,
+        "kurtosis": -1.14473,
+        "skewness": 0.924922,
+        "entropy": 0.868822
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 143.407,
+        "standardDeviation": 30.0586,
+        "kurtosis": 7.80695,
+        "skewness": -0.883631,
+        "entropy": 0.322995
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 199.39,
+        "standardDeviation": 66.8258,
+        "kurtosis": 0.0648669,
+        "skewness": -1.274,
+        "entropy": 0.443844
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 62.7645,
+        "standardDeviation": 66.7793,
+        "kurtosis": -0.135666,
+        "skewness": 1.26356,
+        "entropy": 0.443636
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 10,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "2f878d4dfd30980012e3c98f3030d313fc30bec9cec6e21c1cdd7019a9700a29"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "98252B",
+    "userTime": "0.050u",
+    "elapsedTime": "0:01.054",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.124,
+        "standardDeviation": 74.3132,
+        "kurtosis": -1.45504,
+        "skewness": 0.00911572,
+        "entropy": 0.577975
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.084,
+        "standardDeviation": 122.15,
+        "kurtosis": -1.64164,
+        "skewness": 0.598884,
+        "entropy": 0.939769
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.034,
+        "standardDeviation": 32.8288,
+        "kurtosis": 5.81934,
+        "skewness": -0.939811,
+        "entropy": 0.367931
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.337,
+        "standardDeviation": 71.8044,
+        "kurtosis": -0.725686,
+        "skewness": -0.932485,
+        "entropy": 0.502027
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.2097,
+        "standardDeviation": 70.4694,
+        "kurtosis": -0.899635,
+        "skewness": 0.932639,
+        "entropy": 0.502172
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 11,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "4e83b9bc12f37ffe2b4170c50daf29c0c5638fc75f75a9340d2795e217db411d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "89540B",
+    "userTime": "0.050u",
+    "elapsedTime": "0:01.060",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.951,
+        "standardDeviation": 73.813,
+        "kurtosis": -1.45355,
+        "skewness": 0.0073136,
+        "entropy": 0.571364
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.075,
+        "standardDeviation": 121.849,
+        "kurtosis": -1.62006,
+        "skewness": 0.616634,
+        "entropy": 0.93641
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.185,
+        "standardDeviation": 31.9812,
+        "kurtosis": 6.20107,
+        "skewness": -1.06568,
+        "entropy": 0.358923
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.838,
+        "standardDeviation": 71.2584,
+        "kurtosis": -0.705182,
+        "skewness": -0.940151,
+        "entropy": 0.495145
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.8578,
+        "standardDeviation": 70.1636,
+        "kurtosis": -0.937334,
+        "skewness": 0.927395,
+        "entropy": 0.494979
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 12,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "b20102cf56c662090946099ccd1a90f67ed754ffe06ff6f174be033a1ee1bc34"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "81274B",
+    "userTime": "0.060u",
+    "elapsedTime": "0:01.066",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.223,
+        "standardDeviation": 74.3984,
+        "kurtosis": -1.45373,
+        "skewness": 0.00816866,
+        "entropy": 0.579562
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.984,
+        "standardDeviation": 32.889,
+        "kurtosis": 5.74473,
+        "skewness": -0.91687,
+        "entropy": 0.370126
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.143,
+        "standardDeviation": 71.8723,
+        "kurtosis": -0.743427,
+        "skewness": -0.924867,
+        "entropy": 0.503601
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.472,
+        "standardDeviation": 70.5699,
+        "kurtosis": -0.914422,
+        "skewness": 0.923939,
+        "entropy": 0.503499
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 13,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "87a0a08535d322700f26cb1d0157ea99539299adce716abcca788d6333ee2b87"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "72876B",
+    "userTime": "0.070u",
+    "elapsedTime": "0:01.074",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.109,
+        "standardDeviation": 74.4379,
+        "kurtosis": -1.45334,
+        "skewness": 0.0112956,
+        "entropy": 0.579193
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.759,
+        "standardDeviation": 32.9666,
+        "kurtosis": 5.68089,
+        "skewness": -0.910812,
+        "entropy": 0.369857
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 188.987,
+        "standardDeviation": 72.0547,
+        "kurtosis": -0.757573,
+        "skewness": -0.920812,
+        "entropy": 0.502981
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.3954,
+        "standardDeviation": 70.4678,
+        "kurtosis": -0.91148,
+        "skewness": 0.92439,
+        "entropy": 0.502912
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 14,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "965448e9449f4b9da42b9c7e8ab5a0768a94331c1e19184c60552d07617ff0ec"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "68166B",
+    "userTime": "0.070u",
+    "elapsedTime": "0:01.079",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 58,
+      "height": 40,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2320,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -1.57184,
+        "skewness": 0.290317,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": 8.0896e+52,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": 2.24461e+54,
+        "skewness": -1.075e+37,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 9,
+      "y": 13
+    },
+    "originGeometry": "+9+13",
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 15,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "982b5ddea3ef61fc89030f0122a2ef58e0d52b29d17e1d7f7b8f919609ecd52e"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "2320",
+    "pixelsPerSecond": "27428B",
+    "userTime": "0.080u",
+    "elapsedTime": "0:01.084",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 119.883,
+        "standardDeviation": 69.8482,
+        "kurtosis": -1.50011,
+        "skewness": 0.0474533,
+        "entropy": 0.519824
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 181.03,
+        "standardDeviation": 115.729,
+        "kurtosis": -1.14473,
+        "skewness": 0.924922,
+        "entropy": 0.868822
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 143.407,
+        "standardDeviation": 30.0586,
+        "kurtosis": 7.80695,
+        "skewness": -0.883631,
+        "entropy": 0.322995
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 199.39,
+        "standardDeviation": 66.8258,
+        "kurtosis": 0.0648669,
+        "skewness": -1.274,
+        "entropy": 0.443844
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 62.7645,
+        "standardDeviation": 66.7793,
+        "kurtosis": -0.135666,
+        "skewness": 1.26356,
+        "entropy": 0.443636
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 16,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "2f878d4dfd30980012e3c98f3030d313fc30bec9cec6e21c1cdd7019a9700a29"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "60734B",
+    "userTime": "0.080u",
+    "elapsedTime": "0:01.088",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.124,
+        "standardDeviation": 74.3132,
+        "kurtosis": -1.45504,
+        "skewness": 0.00911572,
+        "entropy": 0.577975
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.084,
+        "standardDeviation": 122.15,
+        "kurtosis": -1.64164,
+        "skewness": 0.598884,
+        "entropy": 0.939769
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.034,
+        "standardDeviation": 32.8288,
+        "kurtosis": 5.81934,
+        "skewness": -0.939811,
+        "entropy": 0.367931
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.337,
+        "standardDeviation": 71.8044,
+        "kurtosis": -0.725686,
+        "skewness": -0.932485,
+        "entropy": 0.502027
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.2097,
+        "standardDeviation": 70.4694,
+        "kurtosis": -0.899635,
+        "skewness": 0.932639,
+        "entropy": 0.502172
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 17,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "4e83b9bc12f37ffe2b4170c50daf29c0c5638fc75f75a9340d2795e217db411d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "57351B",
+    "userTime": "0.090u",
+    "elapsedTime": "0:01.094",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 62,
+      "height": 45,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2790,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -1.57179,
+        "skewness": 0.290325,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": 1.01376e+53,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": 6.79936e+53,
+        "skewness": -4.5e+36,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 7,
+      "y": 19
+    },
+    "originGeometry": "+7+19",
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 18,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "be797a3b17937f6e83982ec5beadc22b90ec5859c5fed8b761af21f531e148b7"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "2790",
+    "pixelsPerSecond": "28010B",
+    "userTime": "0.090u",
+    "elapsedTime": "0:01.099",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.878,
+        "standardDeviation": 73.4792,
+        "kurtosis": -1.45779,
+        "skewness": 0.0107644,
+        "entropy": 0.568494
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 166.727,
+        "standardDeviation": 121.327,
+        "kurtosis": -1.58231,
+        "skewness": 0.646516,
+        "entropy": 0.930599
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.658,
+        "standardDeviation": 31.7501,
+        "kurtosis": 6.12251,
+        "skewness": -0.818958,
+        "entropy": 0.359754
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 191.138,
+        "standardDeviation": 70.7006,
+        "kurtosis": -0.667487,
+        "skewness": -0.970006,
+        "entropy": 0.491856
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.4445,
+        "standardDeviation": 70.1393,
+        "kurtosis": -0.842552,
+        "skewness": 0.960298,
+        "entropy": 0.491766
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 19,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "9740d6f63a8022ea3cbb93e27ee3a44797c0b6b63208c501f98435f66e6a038b"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "51899B",
+    "userTime": "0.100u",
+    "elapsedTime": "0:01.104",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.109,
+        "standardDeviation": 74.4379,
+        "kurtosis": -1.45334,
+        "skewness": 0.0112956,
+        "entropy": 0.579193
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.759,
+        "standardDeviation": 32.9666,
+        "kurtosis": 5.68089,
+        "skewness": -0.910812,
+        "entropy": 0.369857
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 188.987,
+        "standardDeviation": 72.0547,
+        "kurtosis": -0.757573,
+        "skewness": -0.920812,
+        "entropy": 0.502981
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.3954,
+        "standardDeviation": 70.4678,
+        "kurtosis": -0.91148,
+        "skewness": 0.92439,
+        "entropy": 0.502912
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 20,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "965448e9449f4b9da42b9c7e8ab5a0768a94331c1e19184c60552d07617ff0ec"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "49322B",
+    "userTime": "0.100u",
+    "elapsedTime": "0:01.109",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 58,
+      "height": 40,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2320,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 239,
+        "mean": 102.75,
+        "standardDeviation": 0,
+        "kurtosis": -1.57184,
+        "skewness": 0.290317,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 148,
+        "max": 148,
+        "mean": 148,
+        "standardDeviation": 0,
+        "kurtosis": 8.0896e+52,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 239,
+        "max": 239,
+        "mean": 239,
+        "standardDeviation": 0,
+        "kurtosis": 2.24461e+54,
+        "skewness": -1.075e+37,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 24,
+        "max": 24,
+        "mean": 24,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 9,
+      "y": 13
+    },
+    "originGeometry": "+9+13",
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 21,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "982b5ddea3ef61fc89030f0122a2ef58e0d52b29d17e1d7f7b8f919609ecd52e"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "2320",
+    "pixelsPerSecond": "20135B",
+    "userTime": "0.110u",
+    "elapsedTime": "0:01.115",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 119.883,
+        "standardDeviation": 69.8482,
+        "kurtosis": -1.50011,
+        "skewness": 0.0474533,
+        "entropy": 0.519824
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 181.03,
+        "standardDeviation": 115.729,
+        "kurtosis": -1.14473,
+        "skewness": 0.924922,
+        "entropy": 0.868822
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 143.407,
+        "standardDeviation": 30.0586,
+        "kurtosis": 7.80695,
+        "skewness": -0.883631,
+        "entropy": 0.322995
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 199.39,
+        "standardDeviation": 66.8258,
+        "kurtosis": 0.0648669,
+        "skewness": -1.274,
+        "entropy": 0.443844
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 62.7645,
+        "standardDeviation": 66.7793,
+        "kurtosis": -0.135666,
+        "skewness": 1.26356,
+        "entropy": 0.443636
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 22,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "2f878d4dfd30980012e3c98f3030d313fc30bec9cec6e21c1cdd7019a9700a29"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "45165B",
+    "userTime": "0.110u",
+    "elapsedTime": "0:01.119",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.951,
+        "standardDeviation": 73.813,
+        "kurtosis": -1.45355,
+        "skewness": 0.0073136,
+        "entropy": 0.571364
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.075,
+        "standardDeviation": 121.849,
+        "kurtosis": -1.62006,
+        "skewness": 0.616634,
+        "entropy": 0.93641
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.185,
+        "standardDeviation": 31.9812,
+        "kurtosis": 6.20107,
+        "skewness": -1.06568,
+        "entropy": 0.358923
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.838,
+        "standardDeviation": 71.2584,
+        "kurtosis": -0.705182,
+        "skewness": -0.940151,
+        "entropy": 0.495145
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.8578,
+        "standardDeviation": 70.1636,
+        "kurtosis": -0.937334,
+        "skewness": 0.927395,
+        "entropy": 0.494979
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 23,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "b20102cf56c662090946099ccd1a90f67ed754ffe06ff6f174be033a1ee1bc34"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "43239B",
+    "userTime": "0.120u",
+    "elapsedTime": "0:01.124",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.124,
+        "standardDeviation": 74.3132,
+        "kurtosis": -1.45504,
+        "skewness": 0.00911572,
+        "entropy": 0.577975
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.084,
+        "standardDeviation": 122.15,
+        "kurtosis": -1.64164,
+        "skewness": 0.598884,
+        "entropy": 0.939769
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.034,
+        "standardDeviation": 32.8288,
+        "kurtosis": 5.81934,
+        "skewness": -0.939811,
+        "entropy": 0.367931
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.337,
+        "standardDeviation": 71.8044,
+        "kurtosis": -0.725686,
+        "skewness": -0.932485,
+        "entropy": 0.502027
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.2097,
+        "standardDeviation": 70.4694,
+        "kurtosis": -0.899635,
+        "skewness": 0.932639,
+        "entropy": 0.502172
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 24,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "4e83b9bc12f37ffe2b4170c50daf29c0c5638fc75f75a9340d2795e217db411d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "41420B",
+    "userTime": "0.120u",
+    "elapsedTime": "0:01.130",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.223,
+        "standardDeviation": 74.3984,
+        "kurtosis": -1.45373,
+        "skewness": 0.00816866,
+        "entropy": 0.579562
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.984,
+        "standardDeviation": 32.889,
+        "kurtosis": 5.74473,
+        "skewness": -0.91687,
+        "entropy": 0.370126
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.143,
+        "standardDeviation": 71.8723,
+        "kurtosis": -0.743427,
+        "skewness": -0.924867,
+        "entropy": 0.503601
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.472,
+        "standardDeviation": 70.5699,
+        "kurtosis": -0.914422,
+        "skewness": 0.923939,
+        "entropy": 0.503499
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 25,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "87a0a08535d322700f26cb1d0157ea99539299adce716abcca788d6333ee2b87"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "39760B",
+    "userTime": "0.130u",
+    "elapsedTime": "0:01.135",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.109,
+        "standardDeviation": 74.4379,
+        "kurtosis": -1.45334,
+        "skewness": 0.0112956,
+        "entropy": 0.579193
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.706,
+        "standardDeviation": 122.263,
+        "kurtosis": -1.64966,
+        "skewness": 0.592157,
+        "entropy": 0.941024
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.759,
+        "standardDeviation": 32.9666,
+        "kurtosis": 5.68089,
+        "skewness": -0.910812,
+        "entropy": 0.369857
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 188.987,
+        "standardDeviation": 72.0547,
+        "kurtosis": -0.757573,
+        "skewness": -0.920812,
+        "entropy": 0.502981
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.3954,
+        "standardDeviation": 70.4678,
+        "kurtosis": -0.91148,
+        "skewness": 0.92439,
+        "entropy": 0.502912
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 26,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "965448e9449f4b9da42b9c7e8ab5a0768a94331c1e19184c60552d07617ff0ec"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "38262B",
+    "userTime": "0.140u",
+    "elapsedTime": "0:01.141",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.568,
+        "standardDeviation": 74.2067,
+        "kurtosis": -1.46205,
+        "skewness": 0.0183907,
+        "entropy": 0.574601
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.594,
+        "standardDeviation": 121.687,
+        "kurtosis": -1.60844,
+        "skewness": 0.625984,
+        "entropy": 0.934612
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.818,
+        "standardDeviation": 33.2041,
+        "kurtosis": 5.77909,
+        "skewness": -0.974793,
+        "entropy": 0.36723
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.948,
+        "standardDeviation": 71.9065,
+        "kurtosis": -0.668361,
+        "skewness": -0.962336,
+        "entropy": 0.498341
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.1007,
+        "standardDeviation": 70.0288,
+        "kurtosis": -0.820954,
+        "skewness": 0.970295,
+        "entropy": 0.498222
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 27,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "6b2620ae0609bd5166d6fe059be024cddc99f01c5e5d4dcd0c85fd04686c29d3"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "36918B",
+    "userTime": "0.140u",
+    "elapsedTime": "0:01.146",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.52,
+        "standardDeviation": 74.1703,
+        "kurtosis": -1.46286,
+        "skewness": 0.0190492,
+        "entropy": 0.574437
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.783,
+        "standardDeviation": 121.628,
+        "kurtosis": -1.60416,
+        "skewness": 0.629393,
+        "entropy": 0.933952
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.846,
+        "standardDeviation": 33.1985,
+        "kurtosis": 5.78967,
+        "skewness": -0.977192,
+        "entropy": 0.367463
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 190.052,
+        "standardDeviation": 71.8815,
+        "kurtosis": -0.658958,
+        "skewness": -0.96666,
+        "entropy": 0.498215
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 69.9665,
+        "standardDeviation": 69.973,
+        "kurtosis": -0.809826,
+        "skewness": 0.975608,
+        "entropy": 0.498117
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 28,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "579c1f1ab9f1f5d927fbe2cc26d47b333fc47ef954e220495b4301f842484031"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "35595B",
+    "userTime": "0.150u",
+    "elapsedTime": "0:01.151",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.584,
+        "standardDeviation": 74.5045,
+        "kurtosis": -1.45877,
+        "skewness": 0.0212067,
+        "entropy": 0.578287
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.556,
+        "standardDeviation": 122.008,
+        "kurtosis": -1.63146,
+        "skewness": 0.60732,
+        "entropy": 0.938181
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.269,
+        "standardDeviation": 33.4795,
+        "kurtosis": 5.48623,
+        "skewness": -0.962473,
+        "entropy": 0.372771
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.086,
+        "standardDeviation": 72.4629,
+        "kurtosis": -0.731108,
+        "skewness": -0.93682,
+        "entropy": 0.501176
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.5379,
+        "standardDeviation": 70.0678,
+        "kurtosis": -0.855933,
+        "skewness": 0.950884,
+        "entropy": 0.501019
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 29,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "8c58f4e3c64be8856785cee86f37c08c67e3221833925fb4179e6581392528c4"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "34372B",
+    "userTime": "0.150u",
+    "elapsedTime": "0:01.157",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.582,
+        "standardDeviation": 73.9924,
+        "kurtosis": -1.47488,
+        "skewness": 0.0203455,
+        "entropy": 0.572981
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 168.19,
+        "standardDeviation": 120.844,
+        "kurtosis": -1.54693,
+        "skewness": 0.673314,
+        "entropy": 0.925229
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.808,
+        "standardDeviation": 33.7327,
+        "kurtosis": 5.68194,
+        "skewness": -0.670888,
+        "entropy": 0.373525
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 192.33,
+        "standardDeviation": 70.9846,
+        "kurtosis": -0.531483,
+        "skewness": -1.03373,
+        "entropy": 0.49672
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 69.3817,
+        "standardDeviation": 70.4083,
+        "kurtosis": -0.626588,
+        "skewness": 1.03787,
+        "entropy": 0.496452
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 30,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "9929d7c088e9c39c84fb32fd7d2eb12af40f1c7d3b9d68812152bec4478d8a42"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "33275B",
+    "userTime": "0.160u",
+    "elapsedTime": "0:01.162",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 121.707,
+        "standardDeviation": 73.1152,
+        "kurtosis": -1.48471,
+        "skewness": 0.032102,
+        "entropy": 0.55802
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 172.014,
+        "standardDeviation": 119.488,
+        "kurtosis": -1.44533,
+        "skewness": 0.744942,
+        "entropy": 0.910194
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 142.063,
+        "standardDeviation": 33.2667,
+        "kurtosis": 6.03867,
+        "skewness": -0.687332,
+        "entropy": 0.359465
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 194.407,
+        "standardDeviation": 70.1459,
+        "kurtosis": -0.376942,
+        "skewness": -1.10488,
+        "entropy": 0.481186
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 67.3734,
+        "standardDeviation": 69.5603,
+        "kurtosis": -0.457328,
+        "skewness": 1.11199,
+        "entropy": 0.481236
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 31,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "e8ea0a16312a1b5ad65b8bd0ee7150f702c21c8a9fff4b965015a15c6bdc538a"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "32255B",
+    "userTime": "0.160u",
+    "elapsedTime": "0:01.167",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.113,
+        "standardDeviation": 73.3024,
+        "kurtosis": -1.46488,
+        "skewness": 0.0241822,
+        "entropy": 0.563361
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 168.521,
+        "standardDeviation": 120.732,
+        "kurtosis": -1.53869,
+        "skewness": 0.679411,
+        "entropy": 0.923987
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.247,
+        "standardDeviation": 32.1054,
+        "kurtosis": 6.11073,
+        "skewness": -0.887911,
+        "entropy": 0.356894
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 191.707,
+        "standardDeviation": 70.9335,
+        "kurtosis": -0.605323,
+        "skewness": -1.00222,
+        "entropy": 0.486305
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 69.0183,
+        "standardDeviation": 69.4388,
+        "kurtosis": -0.744736,
+        "skewness": 1.00645,
+        "entropy": 0.486258
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 32,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "2d1bc33d1a373e41f817f7c62d0d24d352e356773b13e719e7c578be65d1de69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "31263B",
+    "userTime": "0.170u",
+    "elapsedTime": "0:01.172",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.069,
+        "standardDeviation": 74.3071,
+        "kurtosis": -1.4539,
+        "skewness": 0.011159,
+        "entropy": 0.577242
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.178,
+        "standardDeviation": 122.122,
+        "kurtosis": -1.63962,
+        "skewness": 0.600569,
+        "entropy": 0.939453
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.862,
+        "standardDeviation": 32.8145,
+        "kurtosis": 5.75961,
+        "skewness": -0.904991,
+        "entropy": 0.36782
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.316,
+        "standardDeviation": 71.8498,
+        "kurtosis": -0.745277,
+        "skewness": -0.927783,
+        "entropy": 0.500879
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.274,
+        "standardDeviation": 70.4424,
+        "kurtosis": -0.905767,
+        "skewness": 0.927866,
+        "entropy": 0.500814
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 33,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "117f6c4cee6c3e6960737e042c399731b818d390063264c492baf42062e9dedb"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "30329B",
+    "userTime": "0.170u",
+    "elapsedTime": "0:01.178",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.12,
+        "standardDeviation": 74.4723,
+        "kurtosis": -1.45303,
+        "skewness": 0.0114739,
+        "entropy": 0.579785
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.564,
+        "standardDeviation": 122.304,
+        "kurtosis": -1.65263,
+        "skewness": 0.589639,
+        "entropy": 0.941491
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.721,
+        "standardDeviation": 32.9984,
+        "kurtosis": 5.65052,
+        "skewness": -0.908462,
+        "entropy": 0.370555
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 188.883,
+        "standardDeviation": 72.1182,
+        "kurtosis": -0.763131,
+        "skewness": -0.918197,
+        "entropy": 0.503581
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.4384,
+        "standardDeviation": 70.4684,
+        "kurtosis": -0.913527,
+        "skewness": 0.92303,
+        "entropy": 0.503512
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 34,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "4e7d7d6c0751302ba75e09b8041311cd3b189c7a67c62fedb56b1da97bf3d10b"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "29453B",
+    "userTime": "0.180u",
+    "elapsedTime": "0:01.183",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.78,
+        "standardDeviation": 74.4058,
+        "kurtosis": -1.45778,
+        "skewness": 0.016716,
+        "entropy": 0.577802
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.509,
+        "standardDeviation": 122.022,
+        "kurtosis": -1.63249,
+        "skewness": 0.606475,
+        "entropy": 0.938341
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.626,
+        "standardDeviation": 33.2377,
+        "kurtosis": 5.63771,
+        "skewness": -0.94271,
+        "entropy": 0.370214
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.279,
+        "standardDeviation": 72.1651,
+        "kurtosis": -0.722949,
+        "skewness": -0.938071,
+        "entropy": 0.501383
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.721,
+        "standardDeviation": 70.1984,
+        "kurtosis": -0.865441,
+        "skewness": 0.947206,
+        "entropy": 0.50127
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 35,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "44d83a40525c3c67a1f51665ffc2b3e7bbce2900d7854bc4d6d3657db5e3e8a0"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "28600B",
+    "userTime": "0.180u",
+    "elapsedTime": "0:01.188",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.989,
+        "standardDeviation": 74.4108,
+        "kurtosis": -1.45525,
+        "skewness": 0.0127399,
+        "entropy": 0.577555
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.084,
+        "standardDeviation": 122.15,
+        "kurtosis": -1.64164,
+        "skewness": 0.598884,
+        "entropy": 0.939769
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.747,
+        "standardDeviation": 33.0535,
+        "kurtosis": 5.72325,
+        "skewness": -0.935372,
+        "entropy": 0.367805
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.169,
+        "standardDeviation": 72.0415,
+        "kurtosis": -0.738367,
+        "skewness": -0.929351,
+        "entropy": 0.501377
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.1248,
+        "standardDeviation": 70.3982,
+        "kurtosis": -0.894678,
+        "skewness": 0.933486,
+        "entropy": 0.50127
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 36,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "9540e4c43475d10f54e0f90505d53d1f659e49bcd0e2c166194e2c70d8e18474"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "27806B",
+    "userTime": "0.190u",
+    "elapsedTime": "0:01.194",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.078,
+        "standardDeviation": 74.6789,
+        "kurtosis": -1.4691,
+        "skewness": 0.0147927,
+        "entropy": 0.582203
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.453,
+        "standardDeviation": 121.732,
+        "kurtosis": -1.61163,
+        "skewness": 0.62343,
+        "entropy": 0.935105
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.464,
+        "standardDeviation": 34.2881,
+        "kurtosis": 5.43174,
+        "skewness": -0.692894,
+        "entropy": 0.38075
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 190.707,
+        "standardDeviation": 71.7827,
+        "kurtosis": -0.62485,
+        "skewness": -0.986774,
+        "entropy": 0.506503
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.5927,
+        "standardDeviation": 70.9131,
+        "kurtosis": -0.714383,
+        "skewness": 0.996477,
+        "entropy": 0.506456
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 37,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "ed1d6ab0bff9a7072797bbab9239807ab07a7c659015f8f7dc0b3c5f414a7b5f"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "27058B",
+    "userTime": "0.190u",
+    "elapsedTime": "0:01.199",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.625,
+        "standardDeviation": 74.1831,
+        "kurtosis": -1.4761,
+        "skewness": 0.0199047,
+        "entropy": 0.572909
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 167.813,
+        "standardDeviation": 120.97,
+        "kurtosis": -1.55624,
+        "skewness": 0.666368,
+        "entropy": 0.926635
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 141.78,
+        "standardDeviation": 34.0139,
+        "kurtosis": 5.6762,
+        "skewness": -0.703994,
+        "entropy": 0.37119
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 192.112,
+        "standardDeviation": 71.198,
+        "kurtosis": -0.52534,
+        "skewness": -1.03304,
+        "entropy": 0.496915
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 69.4211,
+        "standardDeviation": 70.5499,
+        "kurtosis": -0.617156,
+        "skewness": 1.04154,
+        "entropy": 0.496895
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 38,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "a069732bb019861a37a0ed9a2ba29b407bae204fe181e9216808d16f6be29fae"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "26378B",
+    "userTime": "0.200u",
+    "elapsedTime": "0:01.204",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.619,
+        "standardDeviation": 74.0207,
+        "kurtosis": -1.46017,
+        "skewness": 0.0167855,
+        "entropy": 0.570982
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 165.783,
+        "standardDeviation": 121.628,
+        "kurtosis": -1.60416,
+        "skewness": 0.629393,
+        "entropy": 0.933952
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.924,
+        "standardDeviation": 32.7251,
+        "kurtosis": 5.95457,
+        "skewness": -0.980704,
+        "entropy": 0.360672
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 190.131,
+        "standardDeviation": 71.6699,
+        "kurtosis": -0.672853,
+        "skewness": -0.9612,
+        "entropy": 0.494723
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.2034,
+        "standardDeviation": 70.0598,
+        "kurtosis": -0.832826,
+        "skewness": 0.965983,
+        "entropy": 0.494582
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 39,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "2161343984afd187b9bc5d533e0b76ce247d52e7bc84a48ab132dc8cfee735ed"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "25707B",
+    "userTime": "0.200u",
+    "elapsedTime": "0:01.210",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.949,
+        "standardDeviation": 74.405,
+        "kurtosis": -1.45602,
+        "skewness": 0.0133382,
+        "entropy": 0.577093
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.178,
+        "standardDeviation": 122.122,
+        "kurtosis": -1.63962,
+        "skewness": 0.600569,
+        "entropy": 0.939453
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.755,
+        "standardDeviation": 33.0793,
+        "kurtosis": 5.736,
+        "skewness": -0.944027,
+        "entropy": 0.366977
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.207,
+        "standardDeviation": 72.0594,
+        "kurtosis": -0.730788,
+        "skewness": -0.932408,
+        "entropy": 0.501036
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.0106,
+        "standardDeviation": 70.3594,
+        "kurtosis": -0.885298,
+        "skewness": 0.93823,
+        "entropy": 0.500907
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 40,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "79d89e82c384977ba42ab5b65790dd6de82ba2f2a15c4e656dd3421d7003d383"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "25041B",
+    "userTime": "0.210u",
+    "elapsedTime": "0:01.215",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.831,
+        "standardDeviation": 74.3571,
+        "kurtosis": -1.45817,
+        "skewness": 0.0146753,
+        "entropy": 0.576058
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.603,
+        "standardDeviation": 121.993,
+        "kurtosis": -1.63044,
+        "skewness": 0.608165,
+        "entropy": 0.938021
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.778,
+        "standardDeviation": 33.1459,
+        "kurtosis": 5.77101,
+        "skewness": -0.964077,
+        "entropy": 0.366182
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.437,
+        "standardDeviation": 72.0182,
+        "kurtosis": -0.70679,
+        "skewness": -0.942915,
+        "entropy": 0.500077
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.7097,
+        "standardDeviation": 70.2709,
+        "kurtosis": -0.864569,
+        "skewness": 0.949018,
+        "entropy": 0.499949
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 41,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "9c2936bdfe47c04a4632b34cb42fb13c3c4669099d8b6b9e23cc30d12e279644"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "24426B",
+    "userTime": "0.210u",
+    "elapsedTime": "0:01.221",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 122.833,
+        "standardDeviation": 74.253,
+        "kurtosis": -1.45576,
+        "skewness": 0.0163915,
+        "entropy": 0.576686
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 164.65,
+        "standardDeviation": 121.979,
+        "kurtosis": -1.62941,
+        "skewness": 0.609011,
+        "entropy": 0.937861
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.718,
+        "standardDeviation": 32.8724,
+        "kurtosis": 5.63826,
+        "skewness": -0.885255,
+        "entropy": 0.369125
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.411,
+        "standardDeviation": 71.9948,
+        "kurtosis": -0.739482,
+        "skewness": -0.934344,
+        "entropy": 0.499944
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 70.8549,
+        "standardDeviation": 70.1658,
+        "kurtosis": -0.872595,
+        "skewness": 0.942498,
+        "entropy": 0.499812
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 42,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "ade4954d4931c1ada99ae6c1d73e0183ea640f1e6e87701063c3b0bc7ee09c8d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "23830B",
+    "userTime": "0.220u",
+    "elapsedTime": "0:01.226",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+,
+{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/gengar_by_sageraziel_d3k0ij4.gif",
+    "permissions": 644,
+    "format": "JSON",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5402,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.107,
+        "standardDeviation": 74.4067,
+        "kurtosis": -1.45372,
+        "skewness": 0.0109497,
+        "entropy": 0.578541
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 163.8,
+        "standardDeviation": 122.235,
+        "kurtosis": -1.64766,
+        "skewness": 0.593837,
+        "entropy": 0.940711
+      },
+      "red": {
+        "min": 16,
+        "max": 255,
+        "mean": 140.822,
+        "standardDeviation": 32.923,
+        "kurtosis": 5.73036,
+        "skewness": -0.917485,
+        "entropy": 0.368509
+      },
+      "green": {
+        "min": 16,
+        "max": 247,
+        "mean": 189.069,
+        "standardDeviation": 72.0035,
+        "kurtosis": -0.749931,
+        "skewness": -0.923651,
+        "entropy": 0.502505
+      },
+      "blue": {
+        "min": 16,
+        "max": 255,
+        "mean": 71.3378,
+        "standardDeviation": 70.4656,
+        "kurtosis": -0.906512,
+        "skewness": 0.927251,
+        "entropy": 0.502439
+      }
+    },
+    "alpha": "#94EF1800",
+    "colormapEntries": 32,
+    "colormap": [
+        "#94EF1800","#FFF7FFFF","#7B63A5FF","#FF5A5AFF","#FF9494FF",
+      "#6B637BFF","#BDADBDFF","#DED6DEFF","#101010FF","#0073CEFF",
+      "#427308FF","#4A294AFF","#B58CBDFF","#949494FF","#848484FF",
+      "#5A4A9CFF","#31A5FFFF","#9473B5FF","#6B6B6BFF","#636363FF",
+      "#FFFFFFFF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF","#000000FF","#000000FF","#000000FF",
+      "#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#94EF1800",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#94EF1800",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 74,
+      "height": 73,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 43,
+    "scenes": 44,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-27T15:52:05+00:00",
+      "date:modify": "2026-07-27T15:52:05+00:00",
+      "date:timestamp": "2026-07-27T15:52:07+00:00",
+      "signature": "8a07affa4e557a08710073e145739bc8bea9da9ef72a7936e65ab36bc510d79a"
+    },
+    "tainted": false,
+    "filesize": "27612B",
+    "numberPixels": "5402",
+    "pixelsPerSecond": "23235B",
+    "userTime": "0.230u",
+    "elapsedTime": "0:01.232",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+]
